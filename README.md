@@ -1,6 +1,6 @@
 # Machine-leanring-for-EPOC-in-RWGS
 
-This GitHub repository is used as supplementary materials for the paper titled 'Machine Learning-Assisted Prediction of Electrochemical Promotion in the Reverse Water Gas Shift Reaction'. It contains the machine learning codes in Jupyter Notebook and datasets used for training, testing, and validating.
+This GitHub repository is used as supplementary materials for the paper titled 'Machine Learning-Driven Prediction of Electrochemical Promotion in the Reverse Water Gas Shift Reaction'. It contains the machine learning codes in Jupyter Notebook and datasets used for training, testing, and validating.
 
 The 'data processing' shows how the raw data is filtered, processed, and structured.
 
