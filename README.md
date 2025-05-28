@@ -10,8 +10,6 @@ The'RFR', 'XGBR', 'SVR', 'NN', and 'Ridge+Lasso' show how different regression m
 
 The 'model comparison' shows the residual density plot and residual plot that used for regression model comparison.
 
-The 'CValidation' shows how the trained classification models are applied to validation dataset for classification validation.
-
 The 'RValidation' shows how the trained regression models are applied to validation dataset for regression validation.
 
 The 'C+R Validation' shows how the combined classification + regression models are applied to validation dataset.
